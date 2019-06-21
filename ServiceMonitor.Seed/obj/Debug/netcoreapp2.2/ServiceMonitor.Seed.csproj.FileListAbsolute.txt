@@ -1,0 +1,16 @@
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Seed/bin/Debug/netcoreapp2.2/ServiceMonitor.Seed.deps.json
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Seed/bin/Debug/netcoreapp2.2/ServiceMonitor.Seed.runtimeconfig.json
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Seed/bin/Debug/netcoreapp2.2/ServiceMonitor.Seed.runtimeconfig.dev.json
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Seed/bin/Debug/netcoreapp2.2/ServiceMonitor.Seed.dll
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Seed/bin/Debug/netcoreapp2.2/ServiceMonitor.Seed.pdb
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Seed/bin/Debug/netcoreapp2.2/ServiceMonitor.Common.dll
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Seed/bin/Debug/netcoreapp2.2/ServiceMonitor.Core.dll
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Seed/bin/Debug/netcoreapp2.2/ServiceMonitor.Common.pdb
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Seed/bin/Debug/netcoreapp2.2/ServiceMonitor.Core.pdb
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Seed/obj/Debug/netcoreapp2.2/ServiceMonitor.Seed.csprojAssemblyReference.cache
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Seed/obj/Debug/netcoreapp2.2/ServiceMonitor.Seed.csproj.CoreCompileInputs.cache
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Seed/obj/Debug/netcoreapp2.2/ServiceMonitor.Seed.AssemblyInfoInputs.cache
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Seed/obj/Debug/netcoreapp2.2/ServiceMonitor.Seed.AssemblyInfo.cs
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Seed/obj/Debug/netcoreapp2.2/ServiceMonitor.Seed.csproj.CopyComplete
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Seed/obj/Debug/netcoreapp2.2/ServiceMonitor.Seed.dll
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Seed/obj/Debug/netcoreapp2.2/ServiceMonitor.Seed.pdb

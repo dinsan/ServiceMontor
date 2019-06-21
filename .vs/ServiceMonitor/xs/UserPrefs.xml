@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{8458C65D-5A65-4042-AF01-E3A7230B71E8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServiceMonitor.WebApi/Controllers/DashboardController.cs">
+    <Files>
+      <File FileName="ServiceMonitor/Clients/Models/ServiceWatchItem.cs" Line="1" Column="1" />
+      <File FileName="ServiceMonitor.Common/Contracts/IWatcher.cs" Line="1" Column="1" />
+      <File FileName="ServiceMonitor.Core/BusinessLayer/Contracts/IAdministrationService.cs" Line="1" Column="1" />
+      <File FileName="ServiceMonitor.Core/BusinessLayer/Contracts/IDashboardService.cs" Line="1" Column="1" />
+      <File FileName="ServiceMonitor.Core/BusinessLayer/Contracts/IService.cs" Line="1" Column="1" />
+      <File FileName="ServiceMonitor.WebAPI/Controllers/AdministrationController.cs" Line="2" Column="1" />
+      <File FileName="ServiceMonitor/Clients/Models/ServiceStatusLogRequest.cs" Line="3" Column="3" />
+      <File FileName="ServiceMonitor/Program.cs" Line="4" Column="3" />
+      <File FileName="ServiceMonitor.WebAPI/Controllers/DashboardController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ServiceMonitor" expanded="True">
+            <Node name="ServiceMonitor.WebAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="DashboardController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ServiceMonitor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

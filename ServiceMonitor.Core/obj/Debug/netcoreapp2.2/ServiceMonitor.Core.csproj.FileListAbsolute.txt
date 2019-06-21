@@ -1,0 +1,9 @@
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Core/bin/Debug/netcoreapp2.2/ServiceMonitor.Core.deps.json
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Core/bin/Debug/netcoreapp2.2/ServiceMonitor.Core.dll
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Core/bin/Debug/netcoreapp2.2/ServiceMonitor.Core.pdb
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Core/obj/Debug/netcoreapp2.2/ServiceMonitor.Core.csprojAssemblyReference.cache
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Core/obj/Debug/netcoreapp2.2/ServiceMonitor.Core.csproj.CoreCompileInputs.cache
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Core/obj/Debug/netcoreapp2.2/ServiceMonitor.Core.AssemblyInfoInputs.cache
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Core/obj/Debug/netcoreapp2.2/ServiceMonitor.Core.AssemblyInfo.cs
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Core/obj/Debug/netcoreapp2.2/ServiceMonitor.Core.dll
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Core/obj/Debug/netcoreapp2.2/ServiceMonitor.Core.pdb

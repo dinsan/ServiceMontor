@@ -1,0 +1,8 @@
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Common/bin/Debug/netcoreapp2.2/ServiceMonitor.Common.deps.json
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Common/bin/Debug/netcoreapp2.2/ServiceMonitor.Common.dll
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Common/bin/Debug/netcoreapp2.2/ServiceMonitor.Common.pdb
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Common/obj/Debug/netcoreapp2.2/ServiceMonitor.Common.csproj.CoreCompileInputs.cache
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Common/obj/Debug/netcoreapp2.2/ServiceMonitor.Common.AssemblyInfoInputs.cache
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Common/obj/Debug/netcoreapp2.2/ServiceMonitor.Common.AssemblyInfo.cs
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Common/obj/Debug/netcoreapp2.2/ServiceMonitor.Common.dll
+/Users/macprodinsan/Downloads/ServiceMonitor.NetCore-master/Source/Backend/ServiceMonitor/ServiceMonitor.Common/obj/Debug/netcoreapp2.2/ServiceMonitor.Common.pdb
